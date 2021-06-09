@@ -4,6 +4,10 @@
     <OutputType>Exe</OutputType>
     <TargetFramework>net5.0</TargetFramework>
     <RootNamespace>_1_solid</RootNamespace>
+    <RepositoryUrl>https://github.com/mpcavalini/design-pattern</RepositoryUrl>
+    <Authors>Marcelo Cavalini</Authors>
+    <Product>Design Pattern</Product>
+    <Company>Business on Web</Company>
   </PropertyGroup>
 
 </Project>
